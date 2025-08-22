@@ -6,7 +6,7 @@ It has been designed with inspiration from real-world planetary exploration rove
 ---
 
 ## ✨ Features
-- 6×6 rocker-bogie inspired mobility system for stable traversal on uneven terrain  
+- 3×3 rocker-bogie inspired mobility system for stable traversal on uneven terrain  
 - High-traction wheels designed for rough surfaces  
 - Robotic arm for sample collection and manipulation tasks  
 - Instrument mast for cameras and environmental sensors  
@@ -31,10 +31,6 @@ It has been designed with inspiration from real-world planetary exploration rove
 
 ---
 
-## 📜 License
-Released under the **MIT License**.  
-
----
 
 ## 👨‍💻 Author
 **Kartik Sinha**  
